@@ -1,0 +1,48 @@
+image: mlukman/maven-3.3-jdk-8
+
+variables:
+  # 'true' to append date '-YYYYMMDD' to version, 'false' to disable
+  VERSION_APPEND_DATE: 'false'
+  # either actual or wildcard path (will be automatically resolved to actual name after build)
+  ARTIFACT_PATH: target/*.*ar 
+  # options for Maven for special cases
+  MAVEN_OPTS: -Dmaven.repo.local=/cache/maven.repository
+
+stages:
+  - build
+  - upload
+
+build:
+  stage: build
+  script:
+    - mvn clean package -B -X
+  artifacts:
+    expire_in: 4 hrs
+    paths:
+    - $ARTIFACT_PATH
+
+.upload_template: &upload_template
+  stage: upload
+  script:
+    - export ARTIFACT_PATH=$(ls -1t $ARTIFACT_PATH | head -1)
+    - export GROUP_ID="$(xmllint --xpath "//*[local-name()='project']/*[local-name()='groupId']/text()" pom.xml)"
+    - export ARTIFACT_ID="$(xmllint --xpath "//*[local-name()='project']/*[local-name()='artifactId']/text()" pom.xml)"
+    - export VERSION="$(xmllint --xpath "//*[local-name()='project']/*[local-name()='version']/text()" pom.xml)"
+    - if [[ "$VERSION_APPEND_DATE" = "true" ]]; then export VERSION="${VERSION}-$(date +%Y%m%d)" ; fi
+    - export PACKAGING=${ARTIFACT_PATH##*.}
+    - mvn deploy:deploy-file --settings deploy.settings.xml -DpomFile=pom.xml -Dfile=$ARTIFACT_PATH -Dpackaging=$PACKAGING -Dversion=$VERSION -DrepositoryId=$REPO_ID -Durl=$REPO_URL
+    - "echo; echo 'The package has been successfully uploaded to repository as below:'; echo REPO: $REPO_URL; echo GROUP_ID: $GROUP_ID; echo ARTIFACT_ID: $ARTIFACT_ID; echo VERSION: $VERSION; echo PACKAGING: $PACKAGING"
+
+upload_releases:
+  <<: *upload_template
+  only:
+    - master
+  before_script:
+    - export REPO_ID=repo.releases && export REPO_URL=$REPO_RELEASES_URL
+
+upload_staging:
+  <<: *upload_template
+  except:
+    - master
+  before_script:
+    - export REPO_ID=repo.staging && export REPO_URL=$REPO_STAGING_URL

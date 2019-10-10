@@ -1,0 +1,394 @@
+NEGATIVE,no apologize
+NEGATIVE,bukan ke perlu
+NEGATIVE,belum melakukan
+NEGATIVE,tidak ditepati
+NEGATIVE,tidak boleh pakai
+NEGATIVE,jerking
+NEGATIVE,terlalu lama
+NEGATIVE,berulang
+NEGATIVE,kerosakan yang sama
+NEGATIVE,not at all satisfied
+NEGATIVE,not done at all
+NEGATIVE,loose
+NEGATIVE,bermasalah
+NEGATIVE,masih mengalami
+NEGATIVE,terputus
+NEGATIVE,sangat lemah
+NEGATIVE,unacceptable
+NEGATIVE,without greeting
+POSITIVE,akan tanggung
+POSITIVE,setuju tukar
+NEGATIVE,so many calls
+NEGATIVE,terpaksa tunda
+NEGATIVE,tidak mementingkan
+NEGATIVE,complain
+NEGATIVE,hanya bagi
+NEGATIVE,still red
+NEGATIVE,tidak settle2
+NEGATIVE,sudah tu
+NEGATIVE,didn`t check
+NEGATIVE,sickening
+NEGATIVE,without name
+NEGATIVE,sedangkan
+NEGATIVE,kerap terjadi
+NEGATIVE,masalah yang sama
+NEGATIVE,complaint
+NEGATIVE,langsung tidak
+NEGATIVE,slow speed
+NEGATIVE,tidak ada line
+NEGATIVE,sangat dukacita
+NEGATIVE,sampai bila
+NEGATIVE,tamatkan
+NEGATIVE,banyak songeh
+NEGATIVE,tiada kaitan
+NEGATIVE,tidak stable
+NEGATIVE,tidak menerima
+NEGATIVE,no resolution
+NEGATIVE,lewat
+NEGATIVE,tidak boleh access
+NEGATIVE,tidak nyala
+NEGATIVE,mungkir janji
+NEGATIVE,macam ini ke
+NEGATIVE,fault
+NEGATIVE,down
+NEGATIVE,sangat lama
+NEGATIVE,kali baru selesai
+NEGATIVE,still persists
+NEGATIVE,mengecewakan
+NEGATIVE,sepatutnya
+NEGATIVE,tanpa explain
+NEGATIVE,bad
+NEGATIVE,cannot do
+NEGATIVE,kerugian
+NEGATIVE,suka-suka hati
+NEGATIVE,problem
+NEGATIVE,masih lagi
+NEGATIVE,mengambil masa
+NEGATIVE,belum pulih
+NEGATIVE,masih belum
+NEGATIVE,macam mana
+NEGATIVE,not yet resolved
+NEGATIVE,disconnect
+NEGATIVE,tanpa mendapat
+NEGATIVE,dikenakan bayaran walaupun
+NEGATIVE,banyak kali
+NEGATIVE,different information
+NEGATIVE,tiada panggilan
+NEGATIVE,belum dilakukan
+NEGATIVE,still same
+NEGATIVE,"downtime"
+NEGATIVE,tidak betul
+NEGATIVE,tidak dapat pakai
+NEGATIVE,gangguan
+NEGATIVE,bohong
+NEGATIVE,salah alamat
+NEGATIVE,tidak dapat
+NEGATIVE,bangang
+NEGATIVE,bazir wang
+NEGATIVE,tidak boleh support
+NEGATIVE,teruk!
+NEGATIVE,langsung tidak dapat
+NEGATIVE,gagal diperbaiki
+NEGATIVE,tukar
+NEGATIVE,berkali kali
+NEGATIVE,buka semula
+NEGATIVE,same problem
+NEGATIVE,tidak effisen
+NEGATIVE,lampu langsung tiada
+NEGATIVE,didn`t settle
+NEGATIVE,terpaksa call
+NEGATIVE,cannot settle
+NEGATIVE,tidak menjalankan
+NEGATIVE,kejar hari-hari
+NEGATIVE,tanpa memberi
+NEGATIVE,tidak diperbaiki
+NEGATIVE,putus asa
+NEGATIVE,masalah internet
+NEGATIVE,putus
+NEGATIVE,belum siap
+NEGATIVE,berulang-ulang
+NEGATIVE,tapi hanya bagi
+NEGATIVE,blame
+NEGATIVE,arrogant
+NEGATIVE,selepas berkali-kali
+POSITIVE,cepat siap
+NEGATIVE,lembap
+POSITIVE,baik
+NEGATIVE,could be rectified earlier
+NEGATIVE,disappointed
+NEGATIVE,tidak selesai
+NEGATIVE,ambil masa
+NEGATIVE,namun sehingga
+NEGATIVE,berulang kali call
+NEGATIVE,tiada sebarang tindakbalas
+NEGATIVE,tidak buat
+NEGATIVE,apahal
+NEGATIVE,buat apa
+NEGATIVE,beberapa kali
+NEGATIVE,semakin teruk
+NEGATIVE,didn`t take place
+NEGATIVE,tidak ok
+NEGATIVE,don`t have done
+NEGATIVE,still not resolved
+NEGATIVE,buruk
+NEGATIVE,sukar
+NEGATIVE,tunggu
+NEGATIVE,baru datang
+NEGATIVE,lambat giler
+NEGATIVE,not satisfied at all
+NEGATIVE,tiada sebarang
+NEGATIVE,still down
+NEGATIVE,case should not
+NEGATIVE,kerosakan sama
+NEGATIVE,tidak ada penyelesaian
+NEGATIVE,tapi tiada
+NEGATIVE,repair
+NEGATIVE,tidak datang-datang
+NEGATIVE,rosak
+NEGATIVE,salah
+NEGATIVE,mana perginya
+NEGATIVE,tidak mention
+NEGATIVE,sampai putus
+NEGATIVE,cannot connect
+NEGATIVE,tidak menepati janji
+NEGATIVE,on off
+NEGATIVE,stops
+NEGATIVE,not punctual
+POSITIVE,was answered
+NEGATIVE,menunggu lebih
+NEGATIVE,janji bukan main
+NEGATIVE,no additional
+NEGATIVE,tidak baikinya
+NEGATIVE,sangat tidak memuaskan
+NEGATIVE,tin kosong
+NEGATIVE,not done
+NEGATIVE,tiada technician
+POSITIVE,bagus
+NEGATIVE,tersangat teruk
+NEGATIVE,tiada orang datang
+NEGATIVE,lambat bertindak
+NEGATIVE,masih tidak
+NEGATIVE,perlu servis yang lebih
+NEGATIVE,disrupted
+NEGATIVE,tiada makluman
+NEGATIVE,tidak stabil
+NEGATIVE,menjejaskan
+NEGATIVE,memakan masa
+NEGATIVE,amat teruk
+POSITIVE,telah berjaya
+NEGATIVE,not install
+NEGATIVE,tidak puas hati
+NEGATIVE,worst
+NEGATIVE,adakah berbaloi
+NEGATIVE,without fixing
+NEGATIVE,tidak dapat buat panggilan
+POSITIVE,tq
+NEGATIVE,dikehendaki membayar
+NEGATIVE,didnt show
+NEGATIVE,tidak beritahu
+NEGATIVE,masaalah
+NEGATIVE,no internet
+NEGATIVE,tidak angkat
+NEGATIVE,makin teruk
+NEGATIVE,not satisfied
+NEGATIVE,kecewa
+NEGATIVE,lousy
+NEGATIVE,lemah
+NEGATIVE,bukan agen
+NEGATIVE,sangat tidak berpuas hati
+NEGATIVE,tidak menepati
+NEGATIVE,kali kedua
+POSITIVE,mudah
+NEGATIVE,not happy
+NEGATIVE,tidak diberitahu
+NEGATIVE,wrong address
+NEGATIVE,paling teruk
+NEGATIVE,tiada perkhidmatan
+NEGATIVE,tidak betul-betul
+NEGATIVE,tidak fungsi
+NEGATIVE,cheating
+NEGATIVE,never fix
+NEGATIVE,mendukacitakan
+NEGATIVE,tidak tepati
+NEGATIVE,buang masa
+NEGATIVE,lies
+NEGATIVE,hanya diperbaiki selepas
+NEGATIVE,scam
+NEGATIVE,pending
+NEGATIVE,10 kali
+NEGATIVE,no dial tone
+NEGATIVE,datang lambat
+NEGATIVE,mahal
+NEGATIVE,rumit
+NEGATIVE,impossible
+NEGATIVE,belum baik
+NEGATIVE,dukacita
+NEGATIVE,sangat kecewa
+NEGATIVE,kept recurs
+NEGATIVE,baru dapat
+NEGATIVE,lokasi salah
+NEGATIVE,gangguan internet
+NEGATIVE,hanya untuk menyelesaikan
+NEGATIVE,sampai sekarang
+NEGATIVE,bermasaalah
+NEGATIVE,tidak dapat diselesaikan
+NEGATIVE,tidak datang
+NEGATIVE,issue
+NEGATIVE,postponed
+NEGATIVE,meletup
+NEGATIVE,tidak berupaya
+NEGATIVE,fucking
+NEGATIVE,lagi teruk
+NEGATIVE,kerosakan fizikal
+NEGATIVE,for nothing
+NEGATIVE,high bills
+NEGATIVE,faulty
+NEGATIVE,tidak jelas
+NEGATIVE,tiada tone
+NEGATIVE,still not solved
+NEGATIVE,tiada nada
+NEGATIVE,tanpa melakukan
+POSITIVE,tolong
+NEGATIVE,waste my time
+NEGATIVE,terpaksa
+NEGATIVE,bising
+NEGATIVE,slowing down
+NEGATIVE,satu pun
+NEGATIVE,issue relocation
+NEGATIVE,cannot get
+NEGATIVE,too much
+NEGATIVE,rugi
+NEGATIVE,tidak update
+NEGATIVE,limited
+NEGATIVE,entah bila
+NEGATIVE,tidak memuaskan
+NEGATIVE,ketidakcekapan
+NEGATIVE,belum diperbaiki
+NEGATIVE,slow
+NEGATIVE,belum
+NEGATIVE,belum dapat diselesaikan
+NEGATIVE,tidak diberi penjelasan
+NEGATIVE,pastikan
+NEGATIVE,kerap kali berlaku
+NEGATIVE,wasn`t clear
+NEGATIVE,tiada pemasangan
+NEGATIVE,not solve
+NEGATIVE,tidak ditunaikan
+NEGATIVE,rude
+NEGATIVE,kenakan caj
+NEGATIVE,pun sama
+NEGATIVE,aduan lebih
+NEGATIVE,belum lagi
+NEGATIVE,bukan telefon
+NEGATIVE,haram
+NEGATIVE,rough manner
+NEGATIVE,tiada perubahan
+NEGATIVE,tidak balas
+NEGATIVE,wrong
+NEGATIVE,lebih peka
+NEGATIVE,return order
+NEGATIVE,kesal
+NEGATIVE,menunggu
+NEGATIVE,tidak pakai
+NEGATIVE,tidak settle
+NEGATIVE,tidak ditetapi
+NEGATIVE,problem yang sama
+NEGATIVE,lama
+NEGATIVE,tidak diselesaikan
+NEGATIVE,tidak mesra
+NEGATIVE,pointing fingers
+NEGATIVE,tidak berkualiti
+NEGATIVE,tidak boleh
+NEGATIVE,tidak berpuas hati
+NEGATIVE,slow speeds
+NEGATIVE,belum dapat
+POSITIVE,friendly
+NEGATIVE,lepas tangan
+NEGATIVE,super slow
+NEGATIVE,jauh sekali
+NEGATIVE,not solved
+NEGATIVE,terpaksa membuat
+NEGATIVE,sangat teruk
+NEGATIVE,take more
+NEGATIVE,tiada tindakan
+NEGATIVE,no response
+NEGATIVE,mengapa perlu tunggu
+NEGATIVE,tiada
+NEGATIVE,tanpa kebenaran
+NEGATIVE,fuck
+NEGATIVE,tidak dapat menghantar
+NEGATIVE,not full and clear
+NEGATIVE,tiada penjelasan
+NEGATIVE,tidak ditanggung
+NEGATIVE,wait
+NEGATIVE,suruh pasang sendiri
+NEGATIVE,tiada servis
+NEGATIVE,breakdown
+NEGATIVE,sangat lambat
+NEGATIVE,annoying
+NEGATIVE,kerosakan
+NEGATIVE,susah
+NEGATIVE,terpaksa mengambil masa
+NEGATIVE,not even
+NEGATIVE,problems
+NEGATIVE,masih sama
+NEGATIVE,doubt
+NEGATIVE,tiada respon
+NEGATIVE,tiada orang kerja
+NEGATIVE,baiki sendiri
+NEGATIVE,tidak berfungsi
+NEGATIVE,tidak ada pun
+NEGATIVE,can`t thru
+NEGATIVE,belum selesai
+NEGATIVE,tidak konsisten
+NEGATIVE,masih tidak mendapat
+NEGATIVE,kepala otak
+NEGATIVE,manada pulih!
+NEGATIVE,menyusahkan
+NEGATIVE,wrong place
+NEGATIVE,no phone connection
+NEGATIVE,should be free
+NEGATIVE,delayed
+NEGATIVE,tidak berbaloi
+NEGATIVE,unable to connect
+NEGATIVE,langsung tidak memuaskan
+NEGATIVE,bayang punya tiada
+NEGATIVE,sangat mengecewakan
+POSITIVE,attentive
+NEGATIVE,belum ada
+NEGATIVE,unpleasant tone
+NEGATIVE,teruk
+NEGATIVE,cancelled
+NEGATIVE,still stops
+NEGATIVE,tiada bunyi
+NEGATIVE,broken
+NEGATIVE,tidak pernah
+NEGATIVE,gagal
+NEGATIVE,terpaksa menelefon
+NEGATIVE,tiada seorang
+NEGATIVE,belum lagi dibaikpulih
+POSITIVE,tidak ada masalah
+NEGATIVE,kecuaian
+NEGATIVE,tiada faedahnya
+NEGATIVE,tidak mahir
+NEGATIVE,itu pun selepas
+NEGATIVE,belum settle
+NEGATIVE,asyik call
+NEGATIVE,tapi hanya
+NEGATIVE,waited
+NEGATIVE,tidak baik
+NEGATIVE,maybe gonna change
+NEGATIVE,masalah
+NEGATIVE,tidak pernah menggunakan
+NEGATIVE,hanya telefon
+NEGATIVE,sampai sekarang belum ada
+NEGATIVE,kurang ajar
+NEGATIVE,pastu suruh orang
+NEGATIVE,tidak juga selesai
+NEGATIVE,lambat
+NEGATIVE,no personal contact
+NEGATIVE,penat
+NEGATIVE,menamatkan
+NEGATIVE,masalah teknikal
+NEGATIVE,tidak menggunakan
+NEGATIVE,tindakan segera
